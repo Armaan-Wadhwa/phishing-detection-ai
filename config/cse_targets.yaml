@@ -1,0 +1,113 @@
+cse_entities:
+  # - name: "Airtel"
+  #   primary_domain: "airtel.in"
+  #   additional_domains:
+  #     - "airtel.com"
+  #     - "bharti.in"
+  #   keywords:
+  #     - "airtel"
+  #     - "bharti"
+  #     - "bharti airtel"
+  #   sector: "Telecommunications"
+
+  # - name: "Bank of Baroda"
+  #   primary_domain: "bankofbaroda.bank.in"
+  #   additional_domains:
+  #     - "bankofbaroda.in"
+  #     - "bankofbaroda.co.in"
+  #   keywords:
+  #     - "bankofbaroda"
+  #     - "bob"
+  #     - "bank of baroda"
+  #   sector: "Banking"
+
+  # - name: "Civil Registration System, MHA"
+  #   primary_domain: "crsorgi.gov.in"
+  #   additional_domains:
+  #     - "crsindia.gov.in"
+  #     - "crs.nic.in"
+  #   keywords:
+  #     - "crs"
+  #     - "civilregistration"
+  #     - "mha"
+  #   sector: "Government Services"
+
+  # - name: "HDFC Bank"
+  #   primary_domain: "hdfcbank.com"
+  #   additional_domains:
+  #     - "hdfclife.com"
+  #     - "hdfcsec.com"
+  #     - "hdfc.com"
+  #   keywords:
+  #     - "hdfc"
+  #     - "hdfcbank"
+  #     - "hdfc bank"
+  #   sector: "Banking"
+
+  - name: "ICICI Bank"
+    primary_domain: "icicibank.com"
+    additional_domains:
+      - "icicidirect.com"
+      - "iciciprulife.com"
+      - "icicihfc.com"
+    keywords:
+      - "icici"
+      - "icicibank"
+      - "icici bank"
+    sector: "Banking"
+
+  # - name: "Indian Oil Corporation Limited (IOCL)"
+  #   primary_domain: "iocl.com"
+  #   additional_domains:
+  #     - "indianoil.co.in"
+  #     - "iocl.in"
+  #   keywords:
+  #     - "iocl"
+  #     - "indianoil"
+  #     - "indian oil"
+  #   sector: "Energy"
+
+  # - name: "Indian Railway Catering and Tourism Corporation (IRCTC)"
+  #   primary_domain: "irctc.co.in"
+  #   additional_domains:
+  #     - "irctc.com"
+  #     - "irctctourism.com"
+  #   keywords:
+  #     - "irctc"
+  #     - "railwaycatering"
+  #     - "railway tourism"
+  #   sector: "Transport"
+
+  # - name: "National Informatics Centre (NIC)"
+  #   primary_domain: "nic.gov.in"
+  #   additional_domains:
+  #     - "nic.in"
+  #     - "gov.in"
+  #   keywords:
+  #     - "nic"
+  #     - "nationalinformaticscentre"
+  #     - "informatics"
+  #   sector: "Government Technology"
+
+  # - name: "Punjab National Bank"
+  #   primary_domain: "pnb.bank.in"
+  #   additional_domains:
+  #     - "pnbindia.in"
+  #     - "pnb.co.in"
+  #   keywords:
+  #     - "pnb"
+  #     - "punjabnationalbank"
+  #     - "punjab national bank"
+  #   sector: "Banking"
+
+  # - name: "State Bank of India (SBI)"
+  #   primary_domain: "onlinesbi.sbi.bank.in"
+  #   additional_domains:
+  #     - "onlinesbi.com"
+  #     - "sbi.co.in"
+  #     - "sbicard.com"
+  #   keywords:
+  #     - "sbi"
+  #     - "statebank"
+  #     - "state bank of india"
+  #   sector: "Banking"
